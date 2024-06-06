@@ -3,17 +3,17 @@
   
 ## Table of Contents
  * [***Members***](#Members)
- * [***Lab 1***](#lab-1---web-scraping-5)
+ * [***Lab 3***](#lab-3---web-scraping-5)
  * [***Python Version***](#Python-Version)
  * [***Libraries Used***](#Libraries-Used)
   
 [`Back to top`](#Lab3)
   
 ## Members
- * [***Jiang Yuping***]()
- * [***Kong Pingfan***](https://github.com/KongPingfanCHN)
- * [***Liu Zonghua***]()
- * [***Wu Yufeng***]()
+ * [***`Jiang Yuping`***](https://github.com/Catheriny)
+ * [***`Kong Pingfan`***](https://github.com/KongPingfanCHN)
+ * [***`Liu Zonghua`***](https://github.com/18612087128)
+ * [***`Wu Yufeng`***](https://github.com/1756604347)
   
 [`Back to top`](#Lab3)
   
@@ -32,7 +32,7 @@
 **`Python`** **`3.9.18`**  
 **`Python`** **`3.7.0`**  
   
-[`Back to top`](#Lab1)
+[`Back to top`](#Lab3)
   
 ## Libraries Used
 
